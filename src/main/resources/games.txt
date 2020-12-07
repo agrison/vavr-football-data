@@ -1,0 +1,44 @@
+2015-08-02 20:00,Lyon,away,1,0,Ligue 1,Journée 01,LUKIC@49
+2015-08-08 20:00,Bordeaux,home,4,1,Ligue 1,Journée 02,TOYES@13:RODRIGUEZ@64:RODRIGUEZ@84:SAHA@90
+2015-08-15 20:00,Châteauroux,away,2,1,Ligue 1,Journée 03,PIRES@8:RODRIGUEZ@67
+2015-08-22 20:00,Paris SG,home,2,1,Ligue 1,Journée 04,PIRES@62:RODRIGUEZ@68
+2015-08-29 20:00,AS Monaco,away,2,1,Ligue 1,Journée 05,LUKIC@21:PIRES@90
+2015-09-05 20:00,Rennes,away,2,2,Ligue 1,Journée 06,RODRIGUEZ@19:GAILLOT@89
+2015-09-12 20:00,Cannes,home,2,0,Ligue 1,Journée 07,GAILLOT@62:MEYRIEU@70
+2015-09-21 20:00,Bastia,away,0,0,Ligue 1,Journée 08,
+2015-09-26 20:00,Auxerre,home,3,0,Ligue 1,Journée 09,RODRIGUEZ@33:MEYRIEU@44:PIRES@82
+2015-10-05 20:00,Strasbourg,away,0,2,Ligue 1,Journée 10,
+2015-10-08 20:00,Le Havre,home,2,0,Ligue 1,Journée 11,PIRES@57:BLANCHARD@68
+2015-10-16 20:00,Marseille,away,0,2,Ligue 1,Journée 12,
+2015-10-25 20:00,Montpellier,home,0,1,Ligue 1,Journée 13,
+2015-10-31 20:00,Lens,away,1,1,Ligue 1,Journée 14,PIRES@44
+2015-11-08 20:00,Guingamp,home,2,1,Ligue 1,Journée 15,MEYRIEU@3:BOFFIN@66
+2015-11-15 20:00,Nantes,away,1,1,Ligue 1,Journée 16,HISTILLOLES@21
+2015-11-21 20:00,Toulouse,home,2,1,Ligue 1,Journée 17,LUKIC@25:PIRES@83
+2015-11-30 20:00,Bordeaux,away,2,2,Ligue 1,Journée 18,PIRES@6:HISTILLOLES@67
+2015-12-05 20:00,Châteauroux,home,2,0,Ligue 1,Journée 19,RODRIGUEZ@27:PIRES@40
+2015-12-14 20:00,Paris SG,away,1,1,Ligue 1,Journée 20,PIRES@69
+2015-12-18 20:00,AS Monaco,home,3,0,Ligue 1,Journée 21,GAILLOT@25:RODRIGUEZ@66:BOFFIN@73
+2016-01-10 20:00,Rennes,home,1,0,Ligue 1,Journée 22,RODRIGUEZ@44
+2016-01-20 20:00,Cannes,away,1,1,Ligue 1,Journée 23,PIRES@43
+2016-01-24 20:00,Bastia,home,0,1,Ligue 1,Journée 24,
+2016-02-04 20:00,Auxerre,away,0,0,Ligue 1,Journée 25,
+2016-02-13 20:00,Strasbourg,home,1,0,Ligue 1,Journée 26,JAGER@57
+2016-02-21 20:00,Le Havre,away,1,2,Ligue 1,Journée 27,LUKIC@66
+2016-03-06 20:00,Marseille,home,3,2,Ligue 1,Journée 28,RODRIGUEZ@23:SONG@71:RODRIGUEZ@78
+2016-03-13 20:00,Montpellier,away,1,0,Ligue 1,Journée 29,SERREDSZUM@82
+2016-03-29 20:00,Lens,home,0,2,Ligue 1,Journée 30,
+2016-04-08 20:00,Guingamp,away,1,0,Ligue 1,Journée 31,LUKIC@33
+2016-04-17 20:00,Nantes,home,3,2,Ligue 1,Journée 32,LUKIC@27:RODRIGUEZ@52:MEYRIEU@74
+2016-04-25 20:00,Toulouse,away,1,0,Ligue 1,Journée 33,MEYRIEU@57
+2016-05-09 20:00,Lyon,home,1,0,Ligue 1,Journée 34,RODRIGUEZ@4
+2016-01-17 20:00,Le Mans,away,1,1,coupeFrance,1/32 de finale,RODRIGUEZ@11
+2016-02-08 20:00,Bastia,home,1,0,coupeFrance,1/16 de finale,RODRIGUEZ@90
+2016-02-28 20:00,Bourg Peronnas,away,0,2,coupeFrance,1/8 de finale,
+2016-01-05 20:00,Gueugnon,away,2,1,coupeLigue,1/16 de finale,PIRES@18:LUKIC@87
+2016-01-31 20:00,Martigues,away,2,0,coupeLigue,1/8 de finale,PIRES@13:LUKIC@53
+2016-02-16 20:00,Paris SG,away,0,1,coupeLigue,1/4 de finale,
+2015-10-21 20:00,Karlsruhe,home,0,2,coupeUEFA,1/16 de finale aller,
+2015-11-04 20:00,Karlsruhe,away,1,1,coupeUEFA,1/16 de finale retour,BOFFIN@10
+2015-09-16 20:00,Mouscron,away,2,0,coupeUEFA,1/32 de finale aller,MEYRIEU@22:RODRIGUEZ@26
+2015-09-30 20:00,Mouscron,home,4,1,coupeUEFA,1/32 de finale retour,RODRIGUEZ@5:RODRIGUEZ@25:KASTENDEUCH@39:GAILLOT@90
